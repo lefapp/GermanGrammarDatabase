@@ -1,6 +1,3 @@
-Grammar|DER
-Dieword|DIE
-Dasword|DAS
 Abflug|DER
 Abschluss|DER
 Alkohol|DER
