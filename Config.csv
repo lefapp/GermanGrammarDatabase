@@ -1,6 +1,6 @@
 Key,Value
 LevelAUrl,https://lefapp.github.io/GermanGrammarDatabase/LevelA.txt
-LevelAMaxWords,100
+LevelAMaxWords,10
 LevelBUrl,https://lefapp.github.io/GermanGrammarDatabase/LevelB.txt
 LevelBMaxWords,100
 LevelCUrl,https://lefapp.github.io/GermanGrammarDatabase/LevelC.txt
