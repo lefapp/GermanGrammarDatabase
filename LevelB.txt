@@ -1261,7 +1261,6 @@ Amt|DAS
 Ananas|DAS
 Angebot|DAS
 Armband|DAS
-Atomkraftwerk|DAS
 Ausland|DAS
 Auto|DAS
 Baby|DAS
