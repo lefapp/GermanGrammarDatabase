@@ -13,9 +13,7 @@ Anzug|DER
 Apparat|DER
 Ärger|DER
 Arm|DER
-Arbeitsplatz|DER
 Artikel|DER
-Arztbesuch|DER
 Aufenthalt|DER
 Aufzug|DER
 Augenblick|DER
@@ -27,7 +25,6 @@ Ball|DER
 Bär|DER
 Bauch|DER
 Baum|DER
-Bauernhof|DER
 Bedarf|DER
 Begriff|DER
 Bereich|DER
@@ -41,18 +38,15 @@ Bildschirm|DER
 Bleistift|DER
 Blitz|DER
 Blödsinn|DER
-Blutdruck|DER
 Boden|DER
 Bräutigam|DER
 Brief|DER
-Bruder|DER
 Bus|DER
 Charakter|DER
 Club|DER
 Cocktail|DER
 Dank|DER
 Daumen|DER
-Deutschkurs|DER
 Dialog|DER
 Dienst|DER
 Döner|DER
@@ -121,7 +115,7 @@ Hunger|DER
 Husten|DER
 Hut|DER
 Hof|DER
-ICE|DER
+ICE (Zug)|DER
 Inhalt|DER
 Internetanschluss|DER
 Job|DER
@@ -135,7 +129,6 @@ Kuchen|DER
 Karneval|DER
 Kasten|DER
 Kauf|DER
-Kindergarten|DER
 Kinosaal|DER
 Kiosk|DER
 Klang|DER
@@ -285,7 +278,6 @@ Verkauf|DER
 Verkehr|DER
 Vertrag|DER
 Vogel|DER
-Vordergrund|DER
 Vorteil|DER
 Vorwurf|DER
 Wagen|DER
@@ -326,9 +318,9 @@ Arbeitnehmer|DER
 Architekt|DER
 Ärger|DER
 Arzt|DER
-Aston Martin|DER
+Aston Martin (Auto)|DER
 Athlet|DER
-Audi|DER
+Audi (Auto)|DER
 Auftrag|DER
 August|DER
 Ausdruck|DER
@@ -367,6 +359,7 @@ Chinese|DER
 Cognac|DER
 Computer|DER
 Cousin|DER
+Designer|DER
 Dezember|DER
 Diamant|DER
 Diplomat|DER
@@ -421,7 +414,6 @@ Geruch|DER
 Geschmack|DER
 Gewinn|DER
 Gewinner|DER
-Grafikdesigner|DER
 Granit|DER
 Gründer|DER
 Hagel|DER
@@ -503,11 +495,10 @@ Monsun|DER
 Montag|DER
 Morgen|DER
 Motor|DER
-Mt. Everest|DER
+Mt. Everest (Berg)|DER
 Nachbar|DER
 Nachmittag|DER
 Name|DER
-Nationalsozialismus|DER
 Naturalismus|DER
 Nebel|DER
 Nerv|DER
@@ -548,7 +539,7 @@ Recorder|DER
 Reif|DER
 Reiz|DER
 Regen|DER
-Regionalexpress|DER
+RE (Zug)|DER
 Regisseur|DER
 Reichtum|DER
 Reiseführer|DER
@@ -571,7 +562,6 @@ Schriftsteller|DER
 Schüler|DER
 Schutz|DER
 Schwager|DER
-Schwiegersohn|DER
 Sekretär|DER
 Sekt|DER
 Sektor|DER
@@ -582,6 +572,7 @@ Sohn|DER
 Sommer|DER
 Sonnenaufgang|DER
 Sonntag|DER
+Sozialismus|DER
 Soziologe|DER
 Spätsommer|DER
 Spezialist|DER
@@ -632,7 +623,6 @@ Versuch|DER
 Verweis|DER
 Verzehr|DER
 Verzicht|DER
-Vesuv|DER
 Vetter|DER
 Vorgang|DER
 Vormittag|DER
@@ -651,7 +641,6 @@ Wodka|DER
 Zeuge|DER
 Zusammenhang|DER
 Zwilling|DER
-Absicht|DIE
 Ampel|DIE
 Angst|DIE
 Antwort|DIE
@@ -679,7 +668,7 @@ DVD|DIE
 E-Mail|DIE
 Erlaubnis|DIE
 Fahrt|DIE
-Familienfeier|DIE
+Feier|DIE
 Feuerwehr|DIE
 Fitness|DIE
 Flut|DIE
@@ -763,10 +752,8 @@ Zukunft|DIE
 Zutat|DIE
 Zuversicht|DIE
 Zwiebel|DIE
-Abfahrt|DIE
 Abhängigkeit|DIE
 Ablehnung|DIE
-Absprache|DIE
 Abteilung|DIE
 Abweichung|DIE
 Achtung|DIE
@@ -816,8 +803,6 @@ Ausnahme|DIE
 Ausrede|DIE
 Aussicht|DIE
 Aussprache|DIE
-Auswahl|DIE
-Auswirkung|DIE
 Avocado|DIE
 Bäckerei|DIE
 Badewanne|DIE
@@ -860,6 +845,7 @@ Bezahlung|DIE
 Bezeichnung|DIE
 Beziehung|DIE
 Bilanz|DIE
+Bildung|DIE
 Biografie|DIE
 Birke|DIE
 Birne|DIE
@@ -991,7 +977,6 @@ Frisur|DIE
 Fröhlichkeit|DIE
 Funktion|DIE
 Fußgängerin|DIE
-Fußgängerzone|DIE
 Garage|DIE
 Garderobe|DIE
 Gastronomie|DIE
@@ -1025,7 +1010,7 @@ Gurke|DIE
 Grundschule|DIE
 Hälfte|DIE
 Haltestelle|DIE
-Harley-Davidson|DIE
+Harley-Davidson (Motorrad)|DIE
 Harmonie|DIE
 Häufigkeit|DIE
 Hausaufgabe|DIE
@@ -1127,8 +1112,6 @@ Lizenz|DIE
 Lösung|DIE
 Loyalität|DIE
 Lücke|DIE
-Lucky Strike|DIE
-Luftverschmutzung|DIE
 Lyrik|DIE
 Mafia|DIE
 Magie|DIE
@@ -1138,7 +1121,6 @@ Mango|DIE
 Männlichkeit|DIE
 Mannschaft|DIE
 Mappe|DIE
-Marlboro|DIE
 Marmelade|DIE
 Massage|DIE
 Maßnahme|DIE
@@ -1160,7 +1142,6 @@ Minute|DIE
 Mitarbeiterin|DIE
 Mitgliedschaft|DIE
 Mitte|DIE
-Mittagspause|DIE
 Möglichkeit|DIE
 Möhre|DIE
 Mode|DIE
@@ -1243,7 +1224,6 @@ Rechnung|DIE
 Regierung|DIE
 Region|DIE
 Reihe|DIE
-Reihenfolge|DIE
 Reinigung|DIE
 Reise|DIE
 Reklamation|DIE
@@ -1283,7 +1263,6 @@ Schwangerschaft|DIE
 Schweinerei|DIE
 Schweiz|DIE
 Schwester|DIE
-Schwiegertochter|DIE
 Schwierigkeit|DIE
 Sehenswürdigkeit|DIE
 Seife|DIE
@@ -1298,11 +1277,10 @@ Sinusitis|DIE
 Situation|DIE
 Slowakei|DIE
 Socke|DIE
-Sonnen|DIE
+Sonne|DIE
 Sorge|DIE
 Soße|DIE
 Spannung|DIE
-Sparkasse|DIE
 Sparsamkeit|DIE
 Speise|DIE
 Spezialisierung|DIE
@@ -1348,7 +1326,7 @@ Temperatur|DIE
 Terrasse|DIE
 Theorie|DIE
 Tischlerei|DIE
-Titanic|DIE
+Titanic (Schiff)|DIE
 Theorie|DIE
 Tochter|DIE
 Toilette|DIE
@@ -1414,8 +1392,6 @@ Wanderroute|DIE
 Wartung|DIE
 Wäsche|DIE
 Weisheit|DIE
-Weiterbildung|DIE
-Weltmeisterschaft|DIE
 Werbung|DIE
 Wette|DIE
 Wirklichkeit|DIE
@@ -1438,7 +1414,7 @@ Zitrone|DIE
 Zubereitung|DIE
 Zufriedenheit|DIE
 Zugehörigkeit|DIE
-Zugspitze|DIE
+Zugspitze (Berg)|DIE
 Zunge|DIE
 Zuordnung|DIE
 Zusage|DIE
@@ -1449,7 +1425,6 @@ Alter|DAS
 Amt|DAS
 Angebot|DAS
 Armband|DAS
-Atomkraftwerk|DAS
 Ausland|DAS
 Auto|DAS
 Baby|DAS
@@ -1461,7 +1436,6 @@ Bein|DAS
 Beispiel|DAS
 Besteck|DAS
 Bett|DAS
-Bierzelt|DAS
 Bild|DAS
 Blatt|DAS
 Blut|DAS
@@ -1556,11 +1530,11 @@ Konto|DAS
 Konzept|DAS
 Konzert|DAS
 Kostüm|DAS
-Krankenhaus|DAS
 Labor|DAS
 Land|DAS
 Layout|DAS
 Lebensmittel|DAS
+Leid|DAS
 Licht|DAS
 Lied|DAS
 Loch|DAS
@@ -1573,7 +1547,6 @@ Meer|DAS
 Menü|DAS
 Merkmal|DAS
 Messer|DAS
-Missverständnis|DAS
 Mitglied|DAS
 Mittel|DAS
 Mobbing|DAS
@@ -1723,7 +1696,6 @@ Christentum|DAS
 Croissant|DAS
 Dasein|DAS
 Datum|DAS
-Deutsch(e)|DAS
 Deutschland|DAS
 Dilemma|DAS
 Dogma|DAS
@@ -1748,9 +1720,7 @@ Experiment|DAS
 Fatum|DAS
 Feiern|DAS
 Fernsehen|DAS
-Fleischbällchen|DAS
 Forum|DAS
-Fotoalbum|DAS
 Fundament|DAS
 Gähnen|DAS
 Ganze|DAS
@@ -1814,7 +1784,6 @@ Imperial (Hotel)|DAS
 Indien|DAS
 Interesse|DAS
 Instrument|DAS
-Italienisch(e)|DAS
 Jubiläum|DAS
 Joggen|DAS
 Kabinett|DAS
@@ -1836,7 +1805,6 @@ Lachen|DAS
 Lächeln|DAS
 Leben|DAS
 Lernen|DAS
-Lernverhalten|DAS
 Lob|DAS
 Mädchen|DAS
 Magnesium|DAS
@@ -1910,7 +1878,6 @@ Solarium|DAS
 Sortiment|DAS
 Stadion|DAS
 Stadium|DAS
-Stadtzentrum|DAS
 Starbucks (Café)|DAS
 Stipendium|DAS
 Stockholm|DAS
@@ -1938,11 +1905,11 @@ Vakuum|DAS
 Verbot|DAS
 Verbrechen|DAS
 Verfahren|DAS
+Verhalten|DAS
 Verliebtsein|DAS
 Versehen|DAS
 Versprechen|DAS
 Vertrauen|DAS
-Verhalten|DAS
 Violett|DAS
 Wachstum|DAS
 Wandern|DAS
