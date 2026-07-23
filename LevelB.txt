@@ -7,13 +7,12 @@ Alkohol|DER
 Alltag|DER
 Anlass|DER
 Angriff|DER
+Anschluss|DER
 Anzug|DER
 Apparat|DER
 Ärger|DER
 Arm|DER
-Arbeitsplatz|DER
 Artikel|DER
-Arztbesuch|DER
 Aufenthalt|DER
 Aufzug|DER
 Augenblick|DER
@@ -42,7 +41,6 @@ Blutdruck|DER
 Boden|DER
 Bräutigam|DER
 Brief|DER
-Bruder|DER
 Bus|DER
 Charakter|DER
 Club|DER
@@ -94,7 +92,6 @@ Gemüseladen|DER
 Geldschein|DER
 Globus|DER
 Glückwunsch|DER
-Gott|DER
 Grill|DER
 Großvater|DER
 Grund|DER
@@ -116,8 +113,7 @@ Hunger|DER
 Husten|DER
 Hut|DER
 Hof|DER
-ICE|DER
-Internetanschluss|DER
+ICE (Zug)|DER
 Job|DER
 Kaffee|DER
 Kalender|DER
@@ -138,7 +134,6 @@ Kohl|DER
 Kompromiss|DER
 Konsum|DER
 Kontakt|DER
-Kochtopf|DER
 Konflikt|DER
 Kontoauszug|DER
 Kontostand|DER
@@ -250,7 +245,6 @@ Tisch|DER
 Tod|DER
 Ton|DER
 Topf|DER
-Treffpunkt|DER
 Trend|DER
 Umzug|DER
 Unfall|DER
@@ -259,7 +253,6 @@ Verkauf|DER
 Verkehr|DER
 Vertrag|DER
 Vogel|DER
-Vordergrund|DER
 Vorteil|DER
 Vorwurf|DER
 Wagen|DER
@@ -268,14 +261,11 @@ Waschsalon|DER
 Weg|DER
 Wert|DER
 Wettbewerb|DER
-Wetterbericht|DER
-Wettkampf|DER
 Wind|DER
 Witz|DER
 Zahn|DER
 Zettel|DER
 Zirkus|DER
-Zitronensaft|DER
 Zoo|DER
 Zucker|DER
 Zug|DER
@@ -294,8 +284,8 @@ Arbeitnehmer|DER
 Architekt|DER
 Ärger|DER
 Arzt|DER
-Aston Martin|DER
-Audi|DER
+Aston Martin (Auto)|DER
+Audi (Auto)|DER
 Auftrag|DER
 August|DER
 Ausdruck|DER
@@ -328,6 +318,7 @@ Chef|DER
 Cognac|DER
 Computer|DER
 Cousin|DER
+Designer|DER
 Dezember|DER
 Diamant|DER
 Diplomat|DER
@@ -348,11 +339,10 @@ Essig|DER
 Experte|DER
 Fahrer|DER
 Faktor|DER
-Feiertag|DER
 Feigling|DER
 Feminismus|DER
 Fernseher|DER
-Ferrari|DER
+Ferrari (Auto)|DER
 Flieder|DER
 Freund|DER
 Friseur|DER
@@ -367,7 +357,6 @@ Geruch|DER
 Geschmack|DER
 Gewinn|DER
 Gewinner|DER
-Grafikdesigner|DER
 Gründer|DER
 Hagel|DER
 Händler|DER
@@ -400,8 +389,6 @@ Kapitalismus|DER
 Käse|DER
 Kauf|DER
 Kellner|DER
-Kirschbaum|DER
-Klimaschutz|DER
 Koch|DER
 Komet|DER
 König|DER
@@ -410,7 +397,7 @@ Körper|DER
 Kugelschreiber|DER
 Kunde|DER
 Künstler|DER
-Lamborghini|DER
+Lamborghini (Auto)|DER
 Lauf|DER
 Lehrer|DER
 Libanon|DER
@@ -421,7 +408,7 @@ Mai|DER
 Manager|DER
 Mann|DER
 Mechaniker|DER
-Mercedes|DER
+Mercedes (Auto)|DER
 Migrant|DER
 Minister|DER
 Mitarbeiter|DER
@@ -565,16 +552,14 @@ Braut|DIE
 Brust|DIE
 Burg|DIE
 Butter|DIE
-Coach|DIE
 Cola|DIE
 Diät|DIE
 Disco|DIE
 Disziplin|DIE
-DVD|DIE
 E-Mail|DIE
 Erlaubnis|DIE
 Fahrt|DIE
-Familienfeier|DIE
+Feier|DIE
 Feuerwehr|DIE
 Fitness|DIE
 Form|DIE
@@ -635,14 +620,13 @@ Stadt|DIE
 Stirn|DIE
 Straßenbahn|DIE
 Tafel|DIE
-Tageszeit|DIE
 Tat|DIE
 Tür|DIE
 U-Bahn|DIE
 Uhr|DIE
 Umwelt|DIE
 Vielfalt|DIE
-Vorwahl|DIE
+Wahl|DIE
 Wand|DIE
 Website|DIE
 Welt|DIE
@@ -669,6 +653,7 @@ Aktion|DIE
 Aktivität|DIE
 Allergie|DIE
 Alternative|DIE
+Ananas|DIE
 Änderung|DIE
 Angabe|DIE
 Ankunft|DIE
@@ -682,7 +667,6 @@ Apotheke|DIE
 Arbeitgeberin|DIE
 Arbeitnehmerin|DIE
 Arbeitslosigkeit|DIE
-Arche Noah|DIE
 Arznei|DIE
 Ärztin|DIE
 Auffassung|DIE
@@ -777,7 +761,6 @@ Drei|DIE
 Droge|DIE
 Dürre|DIE
 Dusche|DIE
-EC-Karte|DIE
 Ecke|DIE
 Effizienz|DIE
 Ehe|DIE
@@ -856,7 +839,6 @@ Frisur|DIE
 Fröhlichkeit|DIE
 Funktion|DIE
 Fußgängerin|DIE
-Fußgängerzone|DIE
 Garage|DIE
 Garderobe|DIE
 Gastronomie|DIE
@@ -885,10 +867,9 @@ Grippe|DIE
 Großmutter|DIE
 Gruppe|DIE
 Gurke|DIE
-Grundschule|DIE
 Hälfte|DIE
 Haltestelle|DIE
-Harley-Davidson|DIE
+Harley-Davidson (Motorrad)|DIE
 Harmonie|DIE
 Häufigkeit|DIE
 Hausaufgabe|DIE
@@ -919,15 +900,14 @@ Kaffeemaschine|DIE
 Kanadierin|DIE
 Kanzlei|DIE
 Kastanie|DIE
-Kawasaki|DIE
-Kerze|DIE
 Karikatur|DIE
 Karriere|DIE
 Karte|DIE
 Kasse|DIE
-Katastrophe|DIE
+Katastrophe Kawasaki (Motorrad)|DIE
 Kaution|DIE
 Kellnerin|DIE
+Kerze|DIE
 Kindheit|DIE
 Kirche|DIE
 Kirsche|DIE
@@ -982,15 +962,11 @@ Lizenz|DIE
 Lösung|DIE
 Loyalität|DIE
 Lücke|DIE
-Lucky Strike|DIE
-Luftverschmutzung|DIE
 Magie|DIE
 Mahnung|DIE
-Mama|DIE
 Mango|DIE
 Mannschaft|DIE
 Mappe|DIE
-Marlboro|DIE
 Marmelade|DIE
 Massage|DIE
 Maßnahme|DIE
@@ -1073,7 +1049,6 @@ Quelle|DIE
 Quittung|DIE
 Reaktion|DIE
 Realität|DIE
-Realschule|DIE
 Rechnung|DIE
 Regierung|DIE
 Region|DIE
@@ -1125,11 +1100,10 @@ Sicherheit|DIE
 Sieben|DIE
 Situation|DIE
 Socke|DIE
-Sonnen|DIE
+Sonne|DIE
 Sorge|DIE
 Soße|DIE
 Spannung|DIE
-Sparkasse|DIE
 Sparsamkeit|DIE
 Speise|DIE
 Spezialisierung|DIE
@@ -1216,7 +1190,6 @@ Versuchung|DIE
 Verwaltung|DIE
 Verzeihung|DIE
 Verzierung|DIE
-Volkshochschule|DIE
 Voraussetzung|DIE
 Vorbereitung|DIE
 Vorsicht|DIE
@@ -1258,7 +1231,6 @@ Alphabet|DAS
 Altenheim|DAS
 Alter|DAS
 Amt|DAS
-Ananas|DAS
 Angebot|DAS
 Armband|DAS
 Ausland|DAS
@@ -1271,7 +1243,6 @@ Bein|DAS
 Beispiel|DAS
 Besteck|DAS
 Bett|DAS
-Bierzelt|DAS
 Bild|DAS
 Blatt|DAS
 Blut|DAS
@@ -1375,7 +1346,6 @@ Meer|DAS
 Menü|DAS
 Merkmal|DAS
 Messer|DAS
-Missverständnis|DAS
 Mitglied|DAS
 Mittel|DAS
 Mobbing|DAS
@@ -1384,7 +1354,6 @@ Monster|DAS
 Motorrad|DAS
 Müsli|DAS
 Netz|DAS
-Neujahr|DAS
 Niveau|DAS
 Obst|DAS
 Öl|DAS
@@ -1395,7 +1364,6 @@ Paket|DAS
 Papier|DAS
 Parfüm|DAS
 Parkett|DAS
-Parkhaus|DAS
 Personal|DAS
 Pflaster|DAS
 Pfund|DAS
@@ -1415,7 +1383,6 @@ Rathaus|DAS
 Recht|DAS
 Regal|DAS
 Reich|DAS
-Reisebüro|DAS
 Rezept|DAS
 Risiko|DAS
 Spiel|DAS
@@ -1428,10 +1395,7 @@ Semester|DAS
 Shampoo|DAS
 Shopping|DAS
 Sofa|DAS
-Sonderangebot|DAS
-Sonnenstudio|DAS
 Spielzeug|DAS
-Sprichwort|DAS
 Steak|DAS
 Stück|DAS
 Studio|DAS
@@ -1441,7 +1405,6 @@ Tablett|DAS
 Taxi|DAS
 Team|DAS
 Telefon|DAS
-Telefonbuch|DAS
 Theater|DAS
 Thema|DAS
 Tempo|DAS
@@ -1469,6 +1432,7 @@ Wunder|DAS
 Yoga|DAS
 Zeichen|DAS
 Zelt|DAS
+Zentrum|DAS
 Zertifikat|DAS
 Zeugnis|DAS
 Ziel|DAS
@@ -1491,6 +1455,7 @@ Backen|DAS
 Ballett|DAS
 Bäumlein|DAS
 Belarus|DAS
+Berlin|DAS
 Bewusstsein|DAS
 Bier|DAS
 Blau|DAS
@@ -1502,7 +1467,7 @@ Cinemax (Kino)|DAS
 Cinestar (Kino)|DAS
 Chlor|DAS
 Christentum|DAS
-!Croissant|DAS
+Croissant|DAS
 Dasein|DAS
 Datum|DAS
 Deutschland|DAS
@@ -1520,9 +1485,8 @@ Essen|DAS
 Experiment|DAS
 Feiern|DAS
 Fernsehen|DAS
-Fleischbällchen|DAS
 Forum|DAS
-Fotoalbum|DAS
+Frankreich|DAS
 Fundament|DAS
 Ganze|DAS
 Gebäck|DAS
@@ -1563,9 +1527,9 @@ Gold|DAS
 Griechenland|DAS
 Grillen|DAS
 Grün|DAS
+Gummibärchen|DAS
 Hähnchen|DAS
 Häschen|DAS
-Gummibärchen|DAS
 Häuschen|DAS
 Heiligtum|DAS
 Herzchen|DAS
@@ -1575,6 +1539,7 @@ Imperial (Hotel)|DAS
 Indien|DAS
 Interesse|DAS
 Instrument|DAS
+Italien|DAS
 Jubiläum|DAS
 Joggen|DAS
 Kabinett|DAS
@@ -1598,7 +1563,6 @@ Mädchen|DAS
 Magnesium|DAS
 Management|DAS
 Märchen|DAS
-Massenmedium|DAS
 Medikament|DAS
 Meiste|DAS
 Messing|DAS
@@ -1608,7 +1572,6 @@ Mögliche|DAS
 Museum|DAS
 Neon|DAS
 Nötige|DAS
-Ornament|DAS
 Päckchen|DAS
 Paket|DAS
 Parlament|DAS
@@ -1637,6 +1600,7 @@ Schweigen|DAS
 Schweinchen|DAS
 Schwimmen|DAS
 Selbstbewusstsein|DAS
+Spanien|DAS
 Spektrum|DAS
 Spiel|DAS
 Silber|DAS
@@ -1644,13 +1608,12 @@ Singen|DAS
 Solarium|DAS
 Stadion|DAS
 Stadium|DAS
-Stadtzentrum|DAS
 Starbucks (Café)|DAS
 Stipendium|DAS
 Studium|DAS
 Surfen|DAS
 Tablett|DAS
-!Talent|DAS
+Talent|DAS
 Tanzen|DAS
 Temperament|DAS
 Territorium|DAS
