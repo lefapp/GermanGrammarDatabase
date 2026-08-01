@@ -1,27 +1,34 @@
 const translations = {
   en: {
     "meta.title": "LeF Games - Learn German Through Play",
+
     "nav.home": "Home", "nav.about": "About", "nav.games": "Games",
     "nav.vision": "Vision", "nav.testimonials": "Testimonials",
     "nav.faq": "FAQ", "nav.contact": "Contact",
+
     "hero.title1": "Learn German Grammar",
     "hero.title2": "Through Fun &",
     "hero.title3": "Interactive Games",
     "hero.subtitle": "We create engaging educational games that make learning German grammar simple, effective and enjoyable for students, kids, teachers and language learners worldwide.",
-    "hero.getOn": "GET IT ON", "hero.downloadOn": "Download on the",
+    "hero.altPlay": "Get it on Google Play",
+    "hero.altApple": "Download on the App Store",
+
     "about.title": "About the Author",
     "about.role": "Founder & Educational Game Developer",
     "about.bio1": "Passionate about languages and education, I have dedicated my career to creating interactive learning experiences that make grammar easy to understand and fun to practice.",
     "about.bio2": "With years of experience in game development and a deep love for the German language, my mission is to help learners of all ages build confidence and master grammar step by step.",
+
     "vision.title": "Our Vision",
     "vision.text": "To make German grammar easy, engaging and accessible for everyone through innovative educational games.",
     "vision.i1": "Quality Education", "vision.i2": "Innovative Learning",
     "vision.i3": "Global Accessibility", "vision.i4": "Empowered Learners",
     "vision.i5": "Brighter Future",
+
     "games.available": "Available Now",
     "games.g1.title": "German Grammar Challenge",
     "games.g1.desc": "Sort words into der, die, das baskets and learn grammar in a fun way!",
     "games.trailer": "Play Trailer",
+
     "coming.title": "Coming Soon", "coming.ribbon": "COMING SOON", "coming.notify": "Notify Me",
     "coming.c1.title": "Vocabulary Builder German",
     "coming.c1.desc": "Expand your German vocabulary with fun mini games.",
@@ -29,6 +36,7 @@ const translations = {
     "coming.c2.desc": "Learn grammar through interactive stories and exercises.",
     "coming.c3.title": "German Pronunciation Coach",
     "coming.c3.desc": "Improve pronunciation with speaking practice and feedback.",
+
     "why.title": "Why Choose Our Games?",
     "why.w1.title": "Interactive Learning",
     "why.w1.desc": "Hands-on games make grammar practice fun, engaging and effective.",
@@ -38,6 +46,7 @@ const translations = {
     "why.w3.desc": "Trusted by teachers worldwide for classroom and home learning.",
     "why.w4.title": "Offline Learning",
     "why.w4.desc": "Play anytime, anywhere without an internet connection.",
+
     "testimonials.title": "What Parents & Learners Say",
     "testimonials.t1.text": "\"My daughter loves these games! She improved her grammar without even realizing it.\"",
     "testimonials.t1.role": "Parent",
@@ -45,16 +54,19 @@ const translations = {
     "testimonials.t2.role": "Student",
     "testimonials.t3.text": "\"As a teacher, I highly recommend these games. My students are more engaged than ever.\"",
     "testimonials.t3.role": "German Teacher",
+
     "screens.title": "Game Screenshots",
     "stats.title": "Achievements", "stats.downloads": "Downloads",
     "stats.countries": "Countries", "stats.learners": "Happy Learners",
     "stats.rating": "Average Rating",
+
     "benefits.title": "Learning Benefits",
     "benefits.b1": "Improves grammar and vocabulary",
     "benefits.b2": "Builds confidence in speaking & writing",
     "benefits.b3": "Enhances overall language skills",
     "benefits.b4": "Supports school and exam success",
     "benefits.b5": "Makes learning fun and effective",
+
     "faq.title": "Frequently Asked Questions",
     "faq.q1": "What age are these games suitable for?",
     "faq.a1": "Our games are designed for learners aged 6 and above, including adults.",
@@ -64,37 +76,47 @@ const translations = {
     "faq.a3": "The basic version is completely free. Premium content is optional.",
     "faq.q4": "Can teachers use these games in class?",
     "faq.a4": "Absolutely — teachers get special classroom features and lesson plans.",
+
     "newsletter.title": "Newsletter",
     "newsletter.text": "Stay updated with our upcoming educational games, new features and learning tips.",
     "newsletter.placeholder": "Enter your email",
     "newsletter.button": "Subscribe",
+
     "footer.tag": "Making German grammar easy, fun and accessible for everyone through interactive games.",
     "footer.contact": "Contact Us", "footer.language": "Language",
     "footer.copyright": "© 2025 LeF Games. All rights reserved."
   },
+
   de: {
     "meta.title": "LeF Games - Deutsch spielerisch lernen",
+
     "nav.home": "Start", "nav.about": "Über uns", "nav.games": "Spiele",
     "nav.vision": "Vision", "nav.testimonials": "Erfahrungen",
     "nav.faq": "FAQ", "nav.contact": "Kontakt",
+
     "hero.title1": "Deutsche Grammatik lernen",
     "hero.title2": "Mit Spaß &",
     "hero.title3": "Interaktiven Spielen",
     "hero.subtitle": "Wir entwickeln fesselnde Lernspiele, die deutsche Grammatik einfach, effektiv und unterhaltsam vermitteln – für Schüler, Kinder, Lehrer und Sprachlernende weltweit.",
-    "hero.getOn": "JETZT BEI", "hero.downloadOn": "Laden im",
+    "hero.altPlay": "Jetzt bei Google Play",
+    "hero.altApple": "Laden im App Store",
+
     "about.title": "Über den Autor",
     "about.role": "Gründer & Entwickler von Lernspielen",
     "about.bio1": "Mit Leidenschaft für Sprachen und Bildung widme ich meine Karriere der Entwicklung interaktiver Lernerfahrungen, die Grammatik leicht verständlich und unterhaltsam machen.",
     "about.bio2": "Mit langjähriger Erfahrung in der Spielentwicklung und einer tiefen Liebe zur deutschen Sprache ist es meine Mission, Lernende jeden Alters Schritt für Schritt zur Grammatikmeisterschaft zu führen.",
+
     "vision.title": "Unsere Vision",
     "vision.text": "Deutsche Grammatik einfach, spannend und für alle zugänglich zu machen – durch innovative Lernspiele.",
     "vision.i1": "Hochwertige Bildung", "vision.i2": "Innovatives Lernen",
     "vision.i3": "Globale Zugänglichkeit", "vision.i4": "Selbstbewusste Lerner",
     "vision.i5": "Bessere Zukunft",
+
     "games.available": "Jetzt verfügbar",
     "games.g1.title": "Deutsche Grammatik-Challenge",
     "games.g1.desc": "Sortiere Wörter in der-, die-, das-Körbe und lerne Grammatik auf spielerische Weise!",
     "games.trailer": "Trailer ansehen",
+
     "coming.title": "Bald verfügbar", "coming.ribbon": "BALD DA", "coming.notify": "Benachrichtigen",
     "coming.c1.title": "Vokabeltrainer Deutsch",
     "coming.c1.desc": "Erweitere deinen deutschen Wortschatz mit lustigen Minispielen.",
@@ -102,6 +124,7 @@ const translations = {
     "coming.c2.desc": "Lerne Grammatik durch interaktive Geschichten und Übungen.",
     "coming.c3.title": "Deutsche Aussprache-Coach",
     "coming.c3.desc": "Verbessere deine Aussprache mit Sprechübungen und Feedback.",
+
     "why.title": "Warum unsere Spiele?",
     "why.w1.title": "Interaktives Lernen",
     "why.w1.desc": "Aktive Spiele machen das Grammatiküben unterhaltsam und effektiv.",
@@ -111,6 +134,7 @@ const translations = {
     "why.w3.desc": "Weltweit von Lehrern für Schule und Zuhause geschätzt.",
     "why.w4.title": "Offline lernen",
     "why.w4.desc": "Jederzeit und überall spielen – ganz ohne Internet.",
+
     "testimonials.title": "Was Eltern & Lernende sagen",
     "testimonials.t1.text": "„Meine Tochter liebt diese Spiele! Sie hat ihre Grammatik verbessert, ohne es zu merken.\"",
     "testimonials.t1.role": "Elternteil",
@@ -118,16 +142,19 @@ const translations = {
     "testimonials.t2.role": "Schüler",
     "testimonials.t3.text": "„Als Lehrerin empfehle ich diese Spiele wärmstens. Meine Schüler sind engagierter als je zuvor.\"",
     "testimonials.t3.role": "Deutschlehrerin",
+
     "screens.title": "Spiel-Screenshots",
     "stats.title": "Erfolge", "stats.downloads": "Downloads",
     "stats.countries": "Länder", "stats.learners": "Zufriedene Lerner",
     "stats.rating": "Durchschnittsbewertung",
+
     "benefits.title": "Lernvorteile",
     "benefits.b1": "Verbessert Grammatik und Wortschatz",
     "benefits.b2": "Stärkt Selbstvertrauen beim Sprechen & Schreiben",
     "benefits.b3": "Fördert allgemeine Sprachkenntnisse",
     "benefits.b4": "Unterstützt Schul- und Prüfungserfolg",
     "benefits.b5": "Macht Lernen unterhaltsam und effektiv",
+
     "faq.title": "Häufig gestellte Fragen",
     "faq.q1": "Für welches Alter sind diese Spiele geeignet?",
     "faq.a1": "Unsere Spiele sind für Lernende ab 6 Jahren – auch für Erwachsene – konzipiert.",
@@ -137,10 +164,12 @@ const translations = {
     "faq.a3": "Die Basisversion ist völlig kostenlos. Premium-Inhalte sind optional.",
     "faq.q4": "Können Lehrer die Spiele im Unterricht nutzen?",
     "faq.a4": "Auf jeden Fall – Lehrer erhalten spezielle Klassenzimmer-Funktionen und Unterrichtspläne.",
+
     "newsletter.title": "Newsletter",
     "newsletter.text": "Bleib informiert über neue Lernspiele, Features und Lerntipps.",
     "newsletter.placeholder": "E-Mail-Adresse eingeben",
     "newsletter.button": "Abonnieren",
+
     "footer.tag": "Wir machen deutsche Grammatik einfach, unterhaltsam und für alle zugänglich – durch interaktive Spiele.",
     "footer.contact": "Kontakt", "footer.language": "Sprache",
     "footer.copyright": "© 2025 LeF Games. Alle Rechte vorbehalten."
