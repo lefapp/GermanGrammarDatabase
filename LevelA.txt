@@ -6,7 +6,7 @@ Anfang|DER
 Anruf|DER
 Anzug|DER
 Apparat|DER
-Arbeit|DER
+Arbeit|DIE
 Arm|DER
 Artikel|DER
 Aufzug|DER
