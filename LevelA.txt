@@ -169,7 +169,7 @@ Swimmingpool|DER
 Tag|DER
 Tanz|DER
 Tee|DER
-Teekanne|DER
+Teekanne|DIE
 Teller|DER
 Teppich|DER
 Termin|DER
